@@ -1,0 +1,40 @@
+.add {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.listcol {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.inptag {
+  margin: 15px;
+  text-decoration: none;
+  padding: 10px;
+}
+.tags {
+  display: flex;
+  border: 1px solid black;
+  margin: 4px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ol li {
+  padding: 2px;
+}
+.btn {
+  border: none;
+  text-decoration: none;
+  background-color: inherit;
+  cursor: pointer;
+}
+input {
+  border: none;
+  text-decoration: none;
+}
